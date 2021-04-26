@@ -50,8 +50,16 @@ namespace Dio.FilmesSeries
 			Console.Write("Digite o id do filme/série: ");
 			int indiceFilmeSerie = int.Parse(Console.ReadLine());
 
-			repositorio.Excluir(indiceFilmeSerie);
+
+			Console.Write("Confirma a exclusão do Filme {0}? - (S/N): ",repositorio.RetornaPorId(indiceFilmeSerie).retornaTitulo());
+			string confirma = Console.ReadLine();
+
+			if (confirma.ToUpper() == "S")
+			{
+				repositorio.Excluir(indiceFilmeSerie);
+			}
 		}
+		
 
 		private static void VisualizarFilmeSerie()
 		{

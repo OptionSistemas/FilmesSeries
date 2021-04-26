@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Bootcamp Digital Innovation One</h1>
-<h2 align="center">Criando um APP simples de cadastro de séries em .NET</h2>
+<h2 align="center">Criando um APP simples de cadastro de sÃ©ries em .NET</h2>
 
 <p align="center">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">

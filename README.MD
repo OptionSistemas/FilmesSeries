@@ -1,9 +1,9 @@
-﻿<p align="center">
+<p align="center">
   <img src="./assets/banner.png" alt="DIO" tittle="Digital Innovation One">
 </p>
 
 <h1 align="center">Bootcamp Digital Innovation One</h1>
-<h2 align="center">Criando um APP simples de cadastro de séries em .NET</h2>
+<h2 align="center">Criando um APP simples de cadastro de s�ries em .NET</h2>
 
 <p align="center">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
